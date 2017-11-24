@@ -1,6 +1,6 @@
 # adAnalytics
 
-Just trying out some JS exerices to analyze ad view data.  <br />
+Just trying out some JS exercises to analyze ad view data.  <br />
 
 inview_percent - Calculate % of ad in viewport. <br />
 inview_1 - When 50% of the ad in viewport is showing, start timer.<br />
